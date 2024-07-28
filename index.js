@@ -18,6 +18,5 @@ const i="commit 1 in gajjju branch"
 
 const j="commit 2 in gajjju branch"
 
-const k="added new change from remote repoistory"
-
+const o="made few local changes"
 const l="added new changes from remote machine"
