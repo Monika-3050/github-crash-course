@@ -18,4 +18,4 @@ const i="commit 1 in gajjju branch"
 
 const j="commit 2 in gajjju branch"
 
-const k="added new change from remote repo"
+const k="added new change from remote repoistory"
